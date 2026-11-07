@@ -1,0 +1,6 @@
+{
+  "name": "ProofCraft",
+  "description": "Precision distillers calculator for spirits dilution, ABV temperature correction, and blending.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
